@@ -14,4 +14,6 @@ Lessons Learned:
 + Basic Workflow git <-> Github
 
 
-Ganz egal
+     Aenderungen durchgefuehrt
+
+  
